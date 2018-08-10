@@ -16,7 +16,7 @@ Vous trouverez l'application hébergée sur Heroku au lien suivant : https://str
 
 ### Pour tester
 
-Pour tester le formulaire stripe, utilisez le code de carte suivant : **4242 4242 4242 4242**
+Pour tester le formulaire stripe, utilisez le code de carte suivant : :red_circle: **4242 4242 4242 4242** :red_circle:
 
 ## Le projet
 
