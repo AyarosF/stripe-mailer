@@ -14,6 +14,10 @@ Après avoir cloné le repo, run :
 
 Vous trouverez l'application hébergée sur Heroku au lien suivant : https://stripe-mailer-stras.herokuapp.com/
 
+### Pour tester
+
+Pour tester le formulaire stripe, utilisez le code de carte suivant : **4242 4242 4242 4242**
+
 ## Le projet
 
 Utilisation des gems
