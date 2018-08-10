@@ -1,24 +1,27 @@
-# README
+# Stripe & Mailjet - projet THP 10 août 2018
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## L'application
 
-Things you may want to cover:
+### En local
 
-* Ruby version
+Après avoir cloné le repo, run :
 
-* System dependencies
+- `bundle install`
 
-* Configuration
+- `rails db:migrate`
 
-* Database creation
+### Heroku
 
-* Database initialization
+Vous trouverez l'application hébergée sur Heroku au lien suivant : https://stripe-mailer-stras.herokuapp.com/
 
-* How to run the test suite
+## Le projet
 
-* Services (job queues, cache servers, search engines, etc.)
+Utilisation des gems
+- stripe
+- mailjet
 
-* Deployment instructions
+pour réaliser un formulaire stripe pour payer et accéder à une newsletter très quali (vraiment vraiment, no arnaque) où on s'enregistre avec son mail
 
-* ...
+## La team
+
+Ce programme est made in Strasbourg, by Soraya FRUCTUOSO, Samaneh VAEZI et Hugo PAYET avec amour ! Bonne correction les amis :kissing_heart:
